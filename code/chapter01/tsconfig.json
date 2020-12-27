@@ -1,0 +1,61 @@
+{
+  /*
+   * 编译选项
+   */
+  "compilerOptions": {
+    // 指定要使用的模块化的规范
+    "module": "es6",
+
+    // 指定被编译为的es版本
+    "target": "es6",
+
+    // 项目中用到的库
+//    "lib":[],
+
+    // 编译后的文件所在目录
+    "outDir": "./dist",
+
+    // 将代码合并成一个文件
+//    "outFile": "./dist/app.js",
+
+    // 是否对js文件进行编译，默认false
+//    "allowJs": false,
+
+    // 检查js语法
+//    "checkJs" : false,
+
+    // 是否移除注释
+//    "removeComments": false,
+
+    // 不生成编译后的文件
+//    "noEmit": false,
+
+    // 当有错误时不生成编译后的文件
+//    "noEmitOnError": true,
+
+    // 所有的严格检查总开关
+//    "strict": true,
+
+    // 用来设置编译后的文件是否使用严格模式，默认false
+//    "alwaysStrict": false,
+
+    // 严格检查空值
+    //    "strictNullChecks": true,
+
+    // 不允许隐式的any类型
+//    "noImplicitAny": false,
+
+    // 不允许不明确类型的 this
+//    "noImplicitThis": true,
+
+    // 生成相应的 '.map' 文件
+//    "sourceMap": false
+  },
+  // 不需要被编译的文件
+//  "exclude": [
+//    "node_modules"
+//  ],
+  // 用来指定哪些ts文件需要被编译
+//  "include": [],
+
+}
