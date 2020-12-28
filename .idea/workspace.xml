@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8722528-8cfe-42f1-846f-6d7acd0f1f7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/chapter02/01_class.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chapter02/02_constructors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chapter02/03_extends.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chapter02/04_abstract.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chapter02/05_interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chapter02/06_encapsulation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chapter02/07_generic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chapter02/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mCbCudGOusqKgoBpFLeb9SJn75" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,15 +41,45 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doc" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="C:\Intellij\webstorme\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="F:\Web\self\typescript-study\code\webpack-demo\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Web\self\typescript-study\doc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Web\self\typescript-study\code\chapter01" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.06_encapsulation.js">
+    <configuration name="02_constructors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/chapter02/02_constructors.js" working-dir="$PROJECT_DIR$/code/chapter02">
+      <method v="2" />
+    </configuration>
+    <configuration name="03_extends.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/chapter02/03_extends.js" working-dir="$PROJECT_DIR$/code/chapter02">
+      <method v="2" />
+    </configuration>
+    <configuration name="04_abstract.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/chapter02/04_abstract.js" working-dir="$PROJECT_DIR$/code/chapter02">
+      <method v="2" />
+    </configuration>
+    <configuration name="05_interface.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/chapter02/05_interface.js" working-dir="$PROJECT_DIR$/code/chapter02">
+      <method v="2" />
+    </configuration>
+    <configuration name="06_encapsulation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/chapter02/06_encapsulation.js" working-dir="$PROJECT_DIR$/code/chapter02">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.06_encapsulation.js" />
+        <item itemvalue="Node.js.05_interface.js" />
+        <item itemvalue="Node.js.04_abstract.js" />
+        <item itemvalue="Node.js.03_extends.js" />
+        <item itemvalue="Node.js.02_constructors.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,12 +91,24 @@
       <updated>1609000395241</updated>
       <workItem from="1609000396383" duration="10467000" />
       <workItem from="1609052419756" duration="2055000" />
-      <workItem from="1609136745101" duration="488000" />
+      <workItem from="1609136745101" duration="2258000" />
+      <workItem from="1609141973351" duration="1046000" />
+      <workItem from="1609168606123" duration="5594000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/code/chapter02/01_class.js" />
+        <option value="$PROJECT_DIR$/code/chapter02/02_constructors.js" />
+        <option value="$PROJECT_DIR$/code/chapter02/03_extends.js" />
+        <option value="$PROJECT_DIR$/code/chapter02/04_abstract.js" />
+        <option value="$PROJECT_DIR$/code/chapter02/05_interface.js" />
+        <option value="$PROJECT_DIR$/code/chapter02/06_encapsulation.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
